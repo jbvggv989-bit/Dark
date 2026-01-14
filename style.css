@@ -67,7 +67,7 @@ ul {
 }
 
 .logo img {
-    width: 130px;
+    width: 80px;
     height: auto;
     display: block;
 }
@@ -950,4 +950,5 @@ body.menu-active .floating-widgets {
 .splash-logo img {
     width: 100%;
     display: block;
+
 }
