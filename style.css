@@ -523,7 +523,7 @@ body.menu-active .floating-widgets {
     }
 
     .logo img {
-        width: 100px;
+        width: 30px;
     }
 
     .mobile-menu-toggle {
@@ -952,5 +952,6 @@ body.menu-active .floating-widgets {
     display: block;
 
 }
+
 
 
