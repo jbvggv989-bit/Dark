@@ -505,7 +505,7 @@ body.menu-active .floating-widgets {
 @media (max-width: 900px) {
 
     .site-header {
-        height: 85;
+        height: 60;
         padding: 8px 0;
     }
 
@@ -523,7 +523,7 @@ body.menu-active .floating-widgets {
     }
 
     .logo img {
-        width: 30px;
+        width: 50px;
     }
 
     .mobile-menu-toggle {
@@ -952,6 +952,7 @@ body.menu-active .floating-widgets {
     display: block;
 
 }
+
 
 
 
