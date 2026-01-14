@@ -851,7 +851,7 @@ body.menu-active .floating-widgets {
 }
 
 .splash-logo {
-    width: 170px;
+    width: 100px;
     height: auto;
     position: relative;
     z-index: 2;
@@ -952,4 +952,5 @@ body.menu-active .floating-widgets {
     display: block;
 
 }
+
 
